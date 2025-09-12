@@ -27,6 +27,10 @@
     },
     "plugins": [
       "expo-router"
-    ]
+    ],
+    "extra": {
+      "supabaseUrl": "https://sqyrrnqpxmuopvgjoquu.supabase.co",
+      "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNxeXJybnFweG11b3B2Z2pvcXV1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTU3NDMxNjEsImV4cCI6MjA3MTMxOTE2MX0.2B7KV81ap5kuigSXJtImorATqkXaXE9YCQkTm8KjmLI"
+    }
   }
 }
